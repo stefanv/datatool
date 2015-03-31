@@ -1,0 +1,13 @@
+{
+  "name": "Git tutorials",
+  "description": "Some git tutorials we found at http://matthew-brett.github.io/pydagogue",
+  "data": {
+    "tutorials":
+      {"curious":
+        {"file": "curious_git.html"},
+         "md5": "068a47798bcd84b5398196fbb7bb84b4"},
+       "foundations":
+        {"file": "foundation.html",
+         "md5": "398b2d7603c2149d1635573de3e701cc"}
+      }
+}
